@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 // Simple configuration
-$appName = 'Sample PHP Application';
+$appName = 'Sample PHP App';
 $version = '1.0.0';
 
 // Basic function
